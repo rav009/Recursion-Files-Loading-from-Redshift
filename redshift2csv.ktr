@@ -448,13 +448,13 @@
   </notepads>
   <connection>
     <name>aws</name>
-    <server>prd01-analytics-pg.cvsvghchudmv.ap-northeast-1.redshift.amazonaws.com</server>
+    <server />
     <type>REDSHIFT</type>
     <access>Native</access>
     <database>apfdb</database>
     <port>5439</port>
     <username>apf_md_ro</username>
-    <password>Encrypted 2be98afc86aa7f2e4be29bb7dfdc0a189</password>
+    <password>Encrypted </password>
     <servername />
     <data_tablespace />
     <index_tablespace />
